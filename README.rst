@@ -1,3 +1,9 @@
+Advise do not use:
+
+This is a fork that simplifies the alias creation of careful_rm so that it works with my setup. My setup is zsh+zinit(ice wait)+asdf which makes a whole lot of the conditional logic in the alias fail.
+
+It's a quick hack.
+
 ##########
 Careful rm
 ##########
