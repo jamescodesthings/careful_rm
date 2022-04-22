@@ -4,6 +4,8 @@ This is a fork that simplifies the alias creation of careful_rm so that it works
 
 It's a quick hack.
 
+Instead, use this: https://github.com/MikeDacre/careful_rm
+
 ##########
 Careful rm
 ##########
